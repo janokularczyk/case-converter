@@ -1,0 +1,22 @@
+.title {
+    font-family: Helvetica, serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    font-family: Helvetica, serif;
+    width: 600px;
+    height: 400px;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+button {
+    display: inline;
+    font-family: Helvetica, serif;
+    background-color: rgb(242, 163, 129);
+    padding: 8px;
+    border: none;
+    border-radius: 2px;
+}
